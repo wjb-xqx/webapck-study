@@ -1,0 +1,14 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul > li {
+  list-style: none;
+  line-height: 30px;
+}
+.box {
+  width: 220px;
+  height: 120px;
+  background: url('../image/生小孩.jpg');
+  background-size: cover;
+}
